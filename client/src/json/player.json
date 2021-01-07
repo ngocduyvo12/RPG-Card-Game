@@ -1,0 +1,49 @@
+[
+    {
+        "place-holder": "place holder for 0 index"
+    },
+    {
+        "lvl": 1,
+        "image": "player/player_1.webp"
+    },
+    {
+        "lvl": 2,
+        "image": "player/player_2.webp"
+    },
+    {
+        "lvl": 3,
+        "image": "player/player_3.webp"
+    },
+    {
+        "lvl": 4,
+        "image": "player/player_4.webp"
+    },
+    {
+        "lvl": 5,
+        "image": "player/player_5.webp"
+    },
+    {
+        "lvl": 6,
+        "image": "player/player_6.webp"
+    },
+    {
+        "lvl": 7,
+        "image": "player/player_7.webp"
+    },
+    {
+        "lvl": 8,
+        "image": "player/player_8.webp"
+    },
+    {
+        "lvl": 9,
+        "image": "player/player_9.webp"
+    },
+    {
+        "lvl": 10,
+        "image": "player/player_10.webp"
+    },
+    {
+        "lvl": 11,
+        "image": "player/player_11.webp"
+    }
+]

@@ -1,0 +1,53 @@
+.front-card {
+    height: 100px;
+    margin-top: 0;
+    margin-bottom: 3%;
+}
+
+.class-description {
+    height: 20rem;
+    margin-top: 2%;
+}
+
+.class-available {
+    margin-top: 2%;
+}
+
+.random-card {
+    margin-top: 5%;
+}
+
+#class-choice {
+    background-image: url("https://t4.ftcdn.net/jpg/02/36/90/29/240_F_236902910_UhRX71lYWhv8DT5fJhvjNHL4WYoU3Z3N.jpg");
+    background-repeat: repeat;
+    border-style: solid;
+    border-width: 5px;
+}
+
+.btn-dark {
+    width: 80%;
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
+
+.btn-danger {
+    width: 80%;
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
+
+.btn-success {
+    width: 80%;
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
+
+.btn-primary {
+    width: 80%;
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
+
+#play-now {
+    margin-top: 10%;
+}

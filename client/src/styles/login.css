@@ -1,0 +1,107 @@
+/* font-family: 'Merienda One', cursive;
+font-family: 'Literata', serif; */
+
+body {
+    width: 90%;
+    font-family:'Literata', serif;
+    margin-left: 5%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    text-align: center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-image: url("http://getwallpapers.com/wallpaper/full/e/e/6/333502.jpg");
+}
+
+.jumbotron {
+    border-radius: 18px;
+    color: white;
+    height: 700px;
+}
+
+#login-page {
+    background-image: url("https://t4.ftcdn.net/jpg/02/36/90/29/240_F_236902910_UhRX71lYWhv8DT5fJhvjNHL4WYoU3Z3N.jpg");
+    background-repeat: repeat;
+    border-style: solid;
+    border-width: 5px;
+}
+
+.btn {
+    margin-top: 4%;
+    width: 60%;
+}
+
+h1, h2 {
+    font-family:'Merienda One', cursive;
+}
+
+.front-card {
+    height: 200px;
+    margin-top: 3%;
+}
+
+.form-group {
+    width: 60%;
+    margin-left: 20%;
+}
+
+#sign-in {
+    width: 50%;
+    float: left;
+    margin-top: 5%;
+}
+
+#register {
+    width: 50%;
+    float: right;
+    margin-top: 5%;
+}
+
+#sword-logo {
+    height: 120px;
+    animation: rumble 20s infinite;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+}
+
+#shield-logo {
+    height: 120px;
+    animation: rumble-alt 15s infinite;
+}
+
+#floating-cards {
+    position: absolute;
+    left: 44%;
+    width: 10%;
+}
+
+@keyframes rumble {
+    0%{
+        opacity: 1;
+        transform: rotateY(0);
+    }
+    50%{
+        opacity: .5;
+        transform: rotateY(180deg);
+    }
+    100%{
+        opacity: 1;
+        transform: rotateY(0);
+    }
+}
+
+@keyframes rumble-alt {
+    0%{
+        opacity: .5;
+        transform: rotateY(0);
+    }
+    50%{
+        opacity: 1;
+        transform: rotateY(180deg);
+    }
+    100%{
+        opacity: .5;
+        transform: rotateY(0);
+    }
+}

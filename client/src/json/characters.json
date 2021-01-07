@@ -1,0 +1,930 @@
+[
+    {"Nothing to see here": "this is index 0. This need to be here because we used character's array index instead of monster id. The monster number in map.json is messed up"},
+
+    {
+    "id": 1,
+    "name": "Ancient Whale",
+    "image": "lvl1_ancientWhale.png",
+    "hitpoints": 1300,
+    "attack": 97,
+    "defense": 130,
+    "rarity": 1
+    },
+
+    {
+    "id": 2,
+    "name": "Armored Zombie",
+    "image": "lvl1_armoredZombie.png",
+    "hitpoints": 1230,
+    "attack": 123,
+    "defense": 123,
+    "rarity": 1
+    },
+
+    {
+    "id": 3,
+    "name": "Dragon Zombie",
+    "image": "lvl1_dragonZombie.jpg",
+    "hitpoints": 920,
+    "attack": 113,
+    "defense": 92,
+    "rarity": 1
+    },
+
+    {
+    "id": 4,
+    "name": "Goblin Fighter",
+    "image": "lvl1_goblinFighter.jpg",
+    "hitpoints": 1230,
+    "attack": 123,
+    "defense": 123,
+    "rarity": 1
+    },
+
+    {
+    "id": 5,
+    "name": "Lady Warrior",
+    "image": "lvl1_ladyWarrior.png",
+    "hitpoints": 920,
+    "attack": 125,
+    "defense": 92,
+    "rarity": 1
+    },
+
+    {
+    "id": 6,
+    "name": "Man-Eater",
+    "image": "lvl1_manEater.png",
+    "hitpoints": 1260,
+    "attack": 115,
+    "defense": 126,
+    "rarity": 1
+    },
+
+    {
+    "id": 7,
+    "name": "Minotaur",
+    "image": "lvl1_minotaur.jpg",
+    "hitpoints": 970,
+    "attack": 119,
+    "defense": 97,
+    "rarity": 1
+    },
+
+    {
+    "id": 8,
+    "name": "Assassin",
+    "image": "lvl2_assassin.png",
+    "hitpoints": 1700,
+    "attack": 230,
+    "defense": 170,
+    "rarity": 2
+    },
+
+    {
+    "id": 9,
+    "name": "Cat Sith",
+    "image": "lvl2_catSith.jpg",
+    "hitpoints": 1620,
+    "attack": 180,
+    "defense": 162,
+    "rarity": 2
+    },
+
+    {
+    "id": 10,
+    "name": "Exorcist",
+    "image": "lvl2_exorcist.png",
+    "hitpoints": 2010,
+    "attack": 223,
+    "defense": 201,
+    "rarity": 2
+    },
+
+    {
+    "id": 11,
+    "name": "Hell Hound",
+    "image": "lvl2_hellhound.jpg",
+    "hitpoints": 2230,
+    "attack": 244,
+    "defense": 223,
+    "rarity": 2
+    },
+
+    {
+    "id": 12,
+    "name": "Holy Gryphon",
+    "image": "lvl2_holyGryphon.jpg",
+    "hitpoints": 1810,
+    "attack": 220,
+    "defense": 181,
+    "rarity": 2
+    },
+
+    {
+    "id": 13,
+    "name": "Phantom",
+    "image": "lvl2_phantom.png",
+    "hitpoints": 2230,
+    "attack": 223,
+    "defense": 223,
+    "rarity": 2
+    },
+
+    {
+    "id": 14,
+    "name": "Volcano Dragon",
+    "image": "lvl2_volcanoDragon.png",
+    "hitpoints": 2440,
+    "attack": 201,
+    "defense": 244,
+    "rarity": 2
+    },
+
+    {
+    "id": 15,
+    "name": "Armor Dragon",
+    "image": "lvl3_armorDragon.png",
+    "hitpoints": 4770,
+    "attack": 394,
+    "defense": 477,
+    "rarity": 3
+    },
+
+    {
+    "id": 16,
+    "name": "Cyclops",
+    "image": "lvl3_cyclops.jpg",
+    "hitpoints": 4190,
+    "attack": 507,
+    "defense": 419,
+    "rarity": 3
+    },
+
+    {
+    "id": 17,
+    "name": "Frost Troll",
+    "image": "lvl3_frostTroll.jpg",
+    "hitpoints": 3640,
+    "attack": 546,
+    "defense": 364,
+    "rarity": 3
+    },
+
+    {
+    "id": 18,
+    "name": "Gladiator",
+    "image": "lvl3_gladiator.png",
+    "hitpoints": 4900,
+    "attack": 407,
+    "defense": 490,
+    "rarity": 3
+    },
+
+    {
+    "id": 19,
+    "name": "Omega",
+    "image": "lvl3_omega.png",
+    "hitpoints": 3940,
+    "attack": 477,
+    "defense": 394,
+    "rarity": 3
+    },
+
+    {
+    "id": 20,
+    "name": "Pluto",
+    "image": "lvl3_pluto.png",
+    "hitpoints": 4360,
+    "attack": 436,
+    "defense": 436,
+    "rarity": 3
+    },
+
+    {
+    "id": 21,
+    "name": "Valkyrie",
+    "image": "lvl3_valkyrie.png",
+    "hitpoints": 3870,
+    "attack": 400,
+    "defense": 387,
+    "rarity": 3
+    },
+
+    {
+    "id": 22,
+    "name": "Ajax",
+    "image": "lvl4_ajax.png",
+    "hitpoints": 4930,
+    "attack": 739,
+    "defense": 493,
+    "rarity": 4
+    },
+
+    {
+    "id": 23,
+    "name": "Anubis",
+    "image": "lvl4_anubis.jpg",
+    "hitpoints": 6490,
+    "attack": 592,
+    "defense": 649,
+    "rarity": 4
+    },
+
+    {
+    "id": 24,
+    "name": "Beowulf",
+    "image": "lvl4_beowulf.jpg",
+    "hitpoints": 5920,
+    "attack": 650,
+    "defense": 592,
+    "rarity": 4
+    },
+
+    {
+    "id": 25,
+    "name": "Diva",
+    "image": "lvl4_diva.png",
+    "hitpoints": 5640,
+    "attack": 466,
+    "defense": 564,
+    "rarity": 4
+    },
+
+    {
+    "id": 26,
+    "name": "Lord Knight",
+    "image": "lvl4_lordKnight.png",
+    "hitpoints": 6490,
+    "attack": 592,
+    "defense": 649,
+    "rarity": 4
+    },
+
+    {
+    "id": 27,
+    "name": "Minerva",
+    "image": "lvl4_minerva.jpg",
+    "hitpoints": 5920,
+    "attack": 592,
+    "defense": 592,
+    "rarity": 4
+    },
+
+    {
+    "id": 28,
+    "name": "Pure Vampire",
+    "image": "lvl4_vampireOfPureblood.jpg",
+    "hitpoints": 5840,
+    "attack": 658,
+    "defense": 584,
+    "rarity": 4
+    },
+
+    {
+    "id": 29,
+    "name": "Zuu",
+    "image": "lvl4_zuu.jpg",
+    "hitpoints": 5770,
+    "attack": 639,
+    "defense": 577,
+    "rarity": 4
+    },
+
+    {
+    "id": 30,
+    "name": "abysmal",
+    "image": "lvl5_abysmal.jpg",
+    "hitpoints": 5900,
+    "attack": 795,
+    "defense": 590,
+    "rarity": 5
+    },
+
+    {
+    "id": 31,
+    "name": "Chronos",
+    "image": "lvl5_chronos.png",
+    "hitpoints": 6840,
+    "attack": 756,
+    "defense": 684,
+    "rarity": 5
+    },
+
+    {
+    "id": 32,
+    "name": "Death Knight",
+    "image": "lvl5_deathKnight.png",
+    "hitpoints": 6420,
+    "attack": 777,
+    "defense": 642,
+    "rarity": 5
+    },
+
+    {
+    "id": 33,
+    "name": "Gigantios",
+    "image": "lvl5_gigantios.jpg",
+    "hitpoints": 7680,
+    "attack": 818,
+    "defense": 768,
+    "rarity": 5
+    },
+
+    {
+    "id": 34,
+    "name": "Hazan",
+    "image": "lvl5_hazan.jpg",
+    "hitpoints": 8371,
+    "attack": 982,
+    "defense": 837,
+    "rarity": 5
+    },
+
+    {
+    "id": 35,
+    "name": "Laughing Jack",
+    "image": "lvl5_laughingJack.jpg",
+    "hitpoints": 9999,
+    "attack": 777,
+    "defense": 999,
+    "rarity": 5
+    },
+
+    {
+    "id": 36,
+    "name": "Oceanus",
+    "image": "lvl5_oceanus.jpg",
+    "hitpoints": 7880,
+    "attack": 907,
+    "defense": 788,
+    "rarity": 5
+    },
+
+    {
+    "id": 37,
+    "name": "Twilight Ent",
+    "image": "lvl5_twilightEnt.jpg",
+    "hitpoints": 7760,
+    "attack": 807,
+    "defense": 776,
+    "rarity": 5
+    },
+
+    {
+    "id": 38,
+    "name": "Apocatequil",
+    "image": "lvl6_apocatequil.jpg",
+    "hitpoints": 12980,
+    "attack": 1482,
+    "defense": 1298,
+    "rarity": 6
+    },
+
+    {
+    "id": 39,
+    "name": "Caradoc",
+    "image": "lvl6_caradocTheRider.jpg",
+    "hitpoints": 13700,
+    "attack": 1380,
+    "defense": 1370,
+    "rarity": 6
+    },
+
+    {
+    "id": 40,
+    "name": "Karlaf",
+    "image": "lvl6_karlaf.jpg",
+    "hitpoints": 16130,
+    "attack": 1613,
+    "defense": 1613,
+    "rarity": 6
+    },
+
+    {
+    "id": 41,
+    "name": "Larva",
+    "image": "lvl6_larva.jpg",
+    "hitpoints": 15970,
+    "attack": 1475,
+    "defense": 1597,
+    "rarity": 6
+    },
+
+    {
+    "id": 42,
+    "name": "Morgan",
+    "image": "lvl6_morgan.jpg",
+    "hitpoints": 13230,
+    "attack": 1405,
+    "defense": 1323,
+    "rarity": 6
+    },
+
+    {
+    "id": 43,
+    "name": "Sage Epiphron",
+    "image": "lvl6_sageEpiphron.jpg",
+    "hitpoints": 16100,
+    "attack": 1428,
+    "defense": 1610,
+    "rarity": 6
+    },
+
+    {
+    "id": 44,
+    "name": "Ziva",
+    "image": "lvl6_ziva.jpg",
+    "hitpoints": 9680,
+    "attack": 2258,
+    "defense": 968,
+    "rarity": 6
+    },
+
+    {
+    "id": 45,
+    "name": "Almuric",
+    "image": "lvl7_almuric.jpg",
+    "hitpoints": 20130,
+    "attack": 2838,
+    "defense": 2013,
+    "rarity": 7
+    },
+
+    {
+    "id": 46,
+    "name": "Balor",
+    "image": "lvl7_balor.jpg",
+    "hitpoints": 19710,
+    "attack": 2409,
+    "defense": 1971,
+    "rarity": 7
+    },
+
+    {
+    "id": 47,
+    "name": "Eideron",
+    "image": "lvl7_eideron.jpg",
+    "hitpoints": 21230,
+    "attack": 2594,
+    "defense": 2123,
+    "rarity": 7
+    },
+
+    {
+    "id": 48,
+    "name": "Heylel",
+    "image": "lvl7_heylel.jpg",
+    "hitpoints": 26920,
+    "attack": 1548,
+    "defense": 2692,
+    "rarity": 7
+    },
+    
+    {
+    "id": 49,
+    "name": "Hindarfial",
+    "image": "lvl7_hindarfial.jpg",
+    "hitpoints": 19900,
+    "attack": 2250,
+    "defense": 1990,
+    "rarity": 7
+    },
+
+    {
+    "id": 50,
+    "name": "Ragnarok",
+    "image": "lvl7_ragnarok.jpg",
+    "hitpoints": 20460,
+    "attack": 2084,
+    "defense": 2046,
+    "rarity": 7
+    },
+
+
+
+
+   {
+    "id": 51,
+    "name": "Butcher",
+    "image": "animated-cards/lvl1_butcher.webp",
+    "hitpoints": 1500,
+    "attack": 190,
+    "defense": 140,
+    "rarity": 1
+   },
+   {
+    "id": 52,
+    "name": "Enchanted Troll",
+    "image": "animated-cards/lvl1_enchantedTroll.webp",
+    "hitpoints": 1800,
+    "attack": 110,
+    "defense": 230,
+    "rarity": 1
+   },
+   {
+    "id": 53,
+    "name": "Gentleman Grasshopper",
+    "image": "animated-cards/lvl1_gentlemanGrasshopper.webp",
+    "hitpoints": 1768,
+    "attack": 160,
+    "defense": 160,
+    "rarity": 1
+   },
+   {
+    "id": 54,
+    "name": "Spell Book",
+    "image": "animated-cards/lvl1_spellBook.webp",
+    "hitpoints": 900,
+    "attack": 300,
+    "defense": 90,
+    "rarity": 1
+   },
+   {
+    "id": 55,
+    "name": "Spicy",
+    "image": "animated-cards/lvl1_spicy.webp",
+    "hitpoints": 2100,
+    "attack": 170,
+    "defense": 130,
+    "rarity": 1
+   },
+   {
+    "id": 56,
+    "name": "Buff Owl",
+    "image": "animated-cards/lvl2_buffOwl.webp",
+    "hitpoints": 3000,
+    "attack": 190,
+    "defense": 190,
+    "rarity": 2
+   },
+   {
+    "id": 57,
+    "name": "Cowrie",
+    "image": "animated-cards/lvl2_cowrie.webp",
+    "hitpoints": 2459,
+    "attack": 250,
+    "defense": 245,
+    "rarity": 2
+   },
+   {
+    "id": 58,
+    "name": "Flame Wolf",
+    "image": "animated-cards/lvl2_flameWolf.webp",
+    "hitpoints": 2400,
+    "attack": 250,
+    "defense": 260,
+    "rarity": 2
+   },
+   {
+    "id": 59,
+    "name": "Hollow",
+    "image": "animated-cards/lvl2_hollow.webp",
+    "hitpoints": 2400,
+    "attack": 350,
+    "defense": 180,
+    "rarity": 2
+   },
+   {
+    "id": 60,
+    "name": "Orcus",
+    "image": "animated-cards/lvl2_orcus.webp",
+    "hitpoints": 3000,
+    "attack": 250,
+    "defense": 250,
+    "rarity": 2
+   },
+   {
+    "id": 61,
+    "name": "Azure",
+    "image": "animated-cards/lvl3_azure.webp",
+    "hitpoints": 4500,
+    "attack": 520,
+    "defense": 300,
+    "rarity": 3
+   },
+   {
+    "id": 62,
+    "name": "Death",
+    "image": "animated-cards/lvl3_death.webp",
+    "hitpoints": 6666,
+    "attack": 666,
+    "defense": 666,
+    "rarity": 3
+   },
+   {
+    "id": 63,
+    "name": "Gnome",
+    "image": "animated-cards/lvl3_gnome.webp",
+    "hitpoints": 5000,
+    "attack": 300,
+    "defense": 600,
+    "rarity": 3
+   },
+   {
+    "id": 64,
+    "name": "Guardian Wolf",
+    "image": "animated-cards/lvl3_guardianWolf.webp",
+    "hitpoints": 4678,
+    "attack": 400,
+    "defense": 500,
+    "rarity": 3
+   },
+   {
+    "id": 65,
+    "name": "Skeleton Count",
+    "image": "animated-cards/lvl3_skeletonCount.webp",
+    "hitpoints": 5120,
+    "attack": 465,
+    "defense": 478,
+    "rarity": 3
+   },
+   {
+    "id": 66,
+    "name": "Spirit Wolf",
+    "image": "animated-cards/lvl3_spiritWolf.webp",
+    "hitpoints": 5120,
+    "attack": 465,
+    "defense": 478,
+    "rarity": 3
+   },
+   {
+    "id": 67,
+    "name": "Brahman",
+    "image": "animated-cards/lvl4_brahman.webp",
+    "hitpoints": 7000,
+    "attack": 650,
+    "defense": 700,
+    "rarity": 4
+   },
+   {
+    "id": 68,
+    "name": "Demon Bard",
+    "image": "animated-cards/lvl4_demonBard.webp",
+    "hitpoints": 6790,
+    "attack": 768,
+    "defense": 700,
+    "rarity": 4
+   },
+   {
+    "id": 69,
+    "name": "Fairy Queen",
+    "image": "animated-cards/lvl4_fairyQueen.webp",
+    "hitpoints": 6546,
+    "attack": 764,
+    "defense": 785,
+    "rarity": 4
+   },
+   {
+    "id": 70,
+    "name": "Flame Demon",
+    "image": "animated-cards/lvl4_flameDemon.webp",
+    "hitpoints": 7235,
+    "attack": 800,
+    "defense": 700,
+    "rarity": 4
+   },
+   {
+    "id": 71,
+    "name": "Golden King",
+    "image": "animated-cards/lvl4_goldenKing.webp",
+    "hitpoints": 7345,
+    "attack": 723,
+    "defense": 789,
+    "rarity": 4
+   },
+   {
+    "id": 72,
+    "name": "Mechanic",
+    "image": "animated-cards/lvl4_mechanic.webp",
+    "hitpoints": 8013,
+    "attack": 800,
+    "defense": 687,
+    "rarity": 4
+   },
+   {
+    "id": 73,
+    "name": "Miasma",
+    "image": "animated-cards/lvl4_miasma.webp",
+    "hitpoints": 7934,
+    "attack": 812,
+    "defense": 670,
+    "rarity": 4
+   },
+   {
+    "id": 74,
+    "name": "Ziz",
+    "image": "animated-cards/lvl4_ziz.webp",
+    "hitpoints": 7542,
+    "attack": 786,
+    "defense": 752,
+    "rarity": 4
+   },
+   {
+    "id": 75,
+    "name": "Ziz",
+    "image": "animated-cards/lvl5_anubisAscended.webp",
+    "hitpoints": 10342,
+    "attack": 875,
+    "defense": 845,
+    "rarity": 5
+   },
+   {
+    "id": 76,
+    "name": "Death Rider",
+    "image": "animated-cards/lvl5_deathRider.webp",
+    "hitpoints": 9873,
+    "attack": 1000,
+    "defense": 954,
+    "rarity": 5
+   },
+   {
+    "id": 77,
+    "name": "Nemea",
+    "image": "animated-cards/lvl5_nemea.webp",
+    "hitpoints": 10462,
+    "attack": 1000,
+    "defense": 1000,
+    "rarity": 5
+   },
+   {
+    "id": 78,
+    "name": "Silver",
+    "image": "animated-cards/lvl5_silver.webp",
+    "hitpoints": 11870,
+    "attack": 1242,
+    "defense": 1187,
+    "rarity": 5
+   },
+   {
+    "id": 79,
+    "name": "Thiedric",
+    "image": "animated-cards/lvl5_thiedric.webp",
+    "hitpoints": 10462,
+    "attack": 986,
+    "defense": 1345,
+    "rarity": 5
+   },
+   {
+    "id": 80,
+    "name": "Tyrshana",
+    "image": "animated-cards/lvl5_tyrshana.webp",
+    "hitpoints": 13450,
+    "attack": 1132,
+    "defense": 1231,
+    "rarity": 5
+   },
+   {
+    "id": 81,
+    "name": "Unowara",
+    "image": "animated-cards/lvl5_unowara.webp",
+    "hitpoints": 12341,
+    "attack": 1451,
+    "defense": 1132,
+    "rarity": 5
+   },
+   {
+    "id": 82,
+    "name": "Knight Queen",
+    "image": "animated-cards/lvl5_KnightQueen.webp",
+    "hitpoints": 14000,
+    "attack": 1451,
+    "defense": 1345,
+    "rarity": 5
+   },
+   {
+    "id": 83,
+    "name": "Chaos",
+    "image": "animated-cards/lvl6_chaos.webp",
+    "hitpoints": 18000,
+    "attack": 1800,
+    "defense": 1800,
+    "rarity": 6
+   },
+   {
+    "id": 84,
+    "name": "Disaster",
+    "image": "animated-cards/lvl6_disaster.webp",
+    "hitpoints": 13000,
+    "attack": 2500,
+    "defense": 1812,
+    "rarity": 6
+   },
+   {
+    "id": 85,
+    "name": "Divine Dragon",
+    "image": "animated-cards/lvl6_divineDragon.webp",
+    "hitpoints": 18320,
+    "attack": 1921,
+    "defense": 2100,
+    "rarity": 6
+   },
+   {
+    "id": 86,
+    "name": "Metatron",
+    "image": "animated-cards/lvl6_metatron.webp",
+    "hitpoints": 17563,
+    "attack": 2000,
+    "defense": 2100,
+    "rarity": 6
+   },
+   {
+    "id": 87,
+    "name": "Order",
+    "image": "animated-cards/lvl6_order.webp",
+    "hitpoints": 22000,
+    "attack": 1750,
+    "defense": 1780,
+    "rarity": 6
+   },
+   {
+    "id": 88,
+    "name": "Tarani",
+    "image": "animated-cards/lvl6_tarani.webp",
+    "hitpoints": 20000,
+    "attack": 1987,
+    "defense": 1897,
+    "rarity": 6
+   },
+   {
+    "id": 89,
+    "name": "Gadreel",
+    "image": "animated-cards/lvl7_gadreel.webp",
+    "hitpoints": 23000,
+    "attack": 2300,
+    "defense": 2300,
+    "rarity": 7
+   },
+   {
+    "id": 90,
+    "name": "Halcyon",
+    "image": "animated-cards/lvl7_halcyon.webp",
+    "hitpoints": 23123,
+    "attack": 2413,
+    "defense": 2131,
+    "rarity": 7
+   },
+   {
+    "id": 91,
+    "name": "Randgriz",
+    "image": "animated-cards/lvl7_randgriz.webp",
+    "hitpoints": 22342,
+    "attack": 2314,
+    "defense": 2211,
+    "rarity": 7
+   },
+   {
+    "id": 92,
+    "name": "Vairo",
+    "image": "animated-cards/lvl7_vairo.webp",
+    "hitpoints": 23141,
+    "attack": 2314,
+    "defense": 2351,
+    "rarity": 7
+   },
+   {
+    "id": 93,
+    "name": "Bahamut",
+    "image": "animated-cards/lvl8_bahamut.webp",
+    "hitpoints": 27000,
+    "attack": 3000,
+    "defense": 2500,
+    "rarity": 8
+   },
+   {
+    "id": 94,
+    "name": "Caleideron",
+    "image": "animated-cards/lvl8_Caleideron.webp",
+    "hitpoints": 28464,
+    "attack": 2975,
+    "defense": 2800,
+    "rarity": 8
+   },
+   {
+    "id": 95,
+    "name": "Caliandra",
+    "image": "animated-cards/lvl8_caliandra.webp",
+    "hitpoints": 29349,
+    "attack": 3200,
+    "defense": 2680,
+    "rarity": 8
+   },
+   {
+    "id": 96,
+    "name": "Lucifer",
+    "image": "animated-cards/lvl8_lucifer.webp",
+    "hitpoints": 25000,
+    "attack": 3400,
+    "defense": 2314,
+    "rarity": 8
+   },
+   {
+    "id": 97,
+    "name": "Satan",
+    "image": "animated-cards/lvl8_satan.webp",
+    "hitpoints": 26666,
+    "attack": 6666,
+    "defense": 6666,
+    "rarity": 8
+   }
+]

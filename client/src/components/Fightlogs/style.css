@@ -1,0 +1,12 @@
+.fight-logs {
+    overflow: auto;
+    /* color: #33cc33; */
+}
+
+.my-attack-log {
+    color: lightgreen;
+}
+
+.enemy-attack-log {
+    color: red;
+}

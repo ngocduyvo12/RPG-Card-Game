@@ -1,0 +1,89 @@
+.equippedImages, .inventoryCardImage, .cursor {
+    cursor: pointer;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-left: 8%;
+}
+
+.inventory-inventory {
+    background-image: url("https://cdn.dodowallpaper.com/full/595/dark-blue-wallpapers-13.jpg");
+    background-repeat: repeat;
+    border-style: solid;
+    border-width: 5px;
+    border-color: black;
+    border-radius: 18px;
+    color: white;
+    padding: 2rem;
+    margin-right: 8%;
+}
+
+.inventory-equipped {
+    background-image: url("https://fsb.zobj.net/crop.php?r=V6dSO909NLkpM_Nh73Qq_WDPKrgUpEvc7ErZMtDTFVtLVzpwCDvlQXP3Gz4czLPx94E0cFxmJn5Apg_jKg5B1zvwFyGT2_yfm_fq67BHMS75dnWeVl708LXJXIjBZHTzsshz_mgh5IF5WGHyIrsYLbH7wr3RlSh5un374kHZ6gcSvDDkrdHeUE1OoY0");
+    background-repeat: repeat;
+    border-style: solid;
+    border-width: 5px;
+    border-color: black;
+    border-radius: 18px;
+    color: white;
+    padding: 2rem;
+}
+
+#return-home {
+    width: 100%;
+    margin-top: 1rem;
+}
+
+#other-home {
+    width: 100%;
+    margin-top: 1rem;
+    border-style: solid;
+    border-color: white;
+    border-width: 1px;
+    border-radius: 18px; 
+    background: black;
+}
+
+#other-home:hover{
+    background: black;
+    color: white;
+    transform: scale(1.1);
+    border-width: 2px;
+    border-color: maroon;
+}
+
+.container-fluid {
+    margin-bottom: 5rem;
+}
+
+#style-equipped {
+    margin-left: 3rem;
+}
+
+a {
+    color: white;
+}
+
+h2 {
+    background: black;
+    padding: 1rem;
+    border-radius: 18px;
+}
+
+#inventory-card-stats{
+    font-size: 18px;
+}
+
+#equipped-card-stats{
+    font-size: 22px;
+    margin-left: -10%;
+}
+
+#style-inventory{
+    margin-left: 17%;
+}
+
+/* resize the cards. Should only affect animated cards. Done by Ngoc*/
+.equippedImages {
+    width: 180px;
+    height: 224px;
+}
