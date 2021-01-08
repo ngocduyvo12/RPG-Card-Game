@@ -74,6 +74,7 @@ class Welcome extends Component {
                 <h1>Welcome To Reign of React</h1>
                 <p>Thank you for joining us on this adventure, to begin playing, please select from available classes below.</p>
                 <p>Once you have selected a class, you will be awarded with four random cards and the game will begin, best of luck!</p>
+                <p>Currently only the warrior class is available</p>
                 <div className="row">
                     <div className="col-md-4 class-available">
                         <h3>Currently Available Classes:</h3>
