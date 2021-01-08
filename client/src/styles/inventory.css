@@ -57,6 +57,7 @@
 
 #style-equipped {
     margin-left: 3rem;
+    padding-left: 6rem;
 }
 
 a {
@@ -74,8 +75,8 @@ h2 {
 }
 
 #equipped-card-stats{
-    font-size: 22px;
-    margin-left: -10%;
+    margin-left: -12%;
+    width: 230px;
 }
 
 #style-inventory{
