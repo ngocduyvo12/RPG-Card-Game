@@ -1,7 +1,7 @@
 # Reign of React
 Welcome to Reign of React, a role playing game with a card collection and party element. This application was created with MongoDB, so players can expect data persistence as they play the game.
 
-Visit the application / game here: https://frozen-garden-53520.herokuapp.com/ 
+Visit the application / game here: https://rpg-card-collecting.herokuapp.com/ 
 
 ## Application Overview
 Reign of React allows players to venture forth into several map areas, battle opponents and collect cards, all while forging new levels for thier own characters and collecting more powerful cards in order to take on tougher opponents.
