@@ -181,6 +181,21 @@
     color: red;
 }
 
+#combat-inventory {
+    border-style: solid;
+    border-width: 5px;
+    border-color: green;
+    border-radius: 18px;
+    padding: 0 1%;
+    margin: 5% 0;
+    border-top: 0;
+    border-bottom: 0;
+}
+
+#health-potion {
+    margin-top: 7rem;
+}
+
 #ec {
     color: white;
 }

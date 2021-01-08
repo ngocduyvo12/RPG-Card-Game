@@ -233,6 +233,7 @@ class Combat extends Component {
     // console.log(this.state.myTeam)
   }
 
+  //logic for animations against enemy 
   cardAttacked = () => {
     if (this.state.enemyCardActive === false) {
       this.setState({ enemyCardActive: true })
@@ -449,13 +450,18 @@ class Combat extends Component {
                 </div>
               </div>
 
-              <input
-                type="image"
-                src={process.env.PUBLIC_URL + "/img/sprite/potions.png"}
-                onClick={this.potionsUsage} />
-              <span>x {this.state.potions}</span>
-              
-              <div className="player-cards col-md-12">
+              {/* Health Potion */}
+              <div id="combat-inventory">
+                <input
+                  id="health-potion"
+                  type="image"
+                  src={process.env.PUBLIC_URL + "/img/sprite/potions.png"}
+                  onClick={this.potionsUsage} />
+                  x {this.state.potions}
+              </div>
+
+
+              <div className="player-cards col-md-11">
                 <>
                   {this.state.myTeam ? (
                     this.state.myTeam.map(cards => (
